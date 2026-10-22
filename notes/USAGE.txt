@@ -1,0 +1,4 @@
+USAGE IDM6.43Free
+idm download. idm chrome extension. SOCKS5.
+Extract. Run. See readme.
+Stamp rev-q3mh4o-20261022
